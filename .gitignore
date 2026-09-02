@@ -1,0 +1,10 @@
+# Ignore the large dataset folder
+trashnet_dataset/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Mac/Windows system files
+.DS_Store
+Thumbs.db
