@@ -1,0 +1,10 @@
+streamlit
+pandas
+pydeck
+torch
+torchvision
+opencv-python-headless
+pytorch-grad-cam
+matplotlib
+numpy
+pillow
